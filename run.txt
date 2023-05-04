@@ -1,0 +1,4 @@
+npx create-react-app .
+npm install antd
+npm install --save @ant-design/icons
+npm install react-icons --save
